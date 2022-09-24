@@ -12,5 +12,5 @@ password:- 123456
 
 Payment method paypal:-
 
-id:- sb-xoh3a15791430@personal.example.com
-password:-#'b3/qLY
+id:- @personal.example.com
+password:-password
